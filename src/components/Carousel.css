@@ -1,0 +1,43 @@
+/* write your carousel css in this file */
+
+.carousel{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    height: 670px;
+    width: 630px;
+
+}
+
+.center{
+    margin-left: -400px;
+}
+
+h1{
+    justify-content: center;
+}
+
+.right{
+    margin-left: 190px;
+    position: fixed;
+    margin-left: 630px;
+}
+
+.left{
+    position: fixed;
+    margin-left: -20px;
+}
+
+.center{
+    position: fixed;
+    margin-left: 250px;
+    
+}
+
+h1{
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
